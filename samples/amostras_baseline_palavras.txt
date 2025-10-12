@@ -1,0 +1,30 @@
+[Prompt: 'o amor e', Temperature = 0.7]
+o amor e que e o mar e o mes que a furia la no chao e a boca na minha ideia qual o meu rapaz agora me deixar e a noite que
+--------------------------------------------------------------------------------
+[Prompt: 'o amor e', Temperature = 1.0]
+o amor e posso descanso minha se encontrar a terra de um dia morena com meio de amor de lia pra tomar a boca e do chao orquestras baby fita ouvir enquanto eu
+--------------------------------------------------------------------------------
+[Prompt: 'o amor e', Temperature = 1.3]
+o amor e o ar garcom luar pes lembrar resta a morte fazem artista carcara como as nossas aquela versos amor tem lia eu sol se ela ai ah os tantos aos um
+--------------------------------------------------------------------------------
+====================================================================================================
+[Prompt: 'a vida e', Temperature = 0.7]
+a vida e que a cidade foi a nossa musica que sim se te dar o meu amor o meu guri meu amor no prato ou se eu vou nem um olho nao
+--------------------------------------------------------------------------------
+[Prompt: 'a vida e', Temperature = 1.0]
+a vida e me essa cancao no jogo que ele vento demais vi que es de ouro nao tem tanta guerra mesmo lugar o momento sai supoe que ela o chocalho veja no
+--------------------------------------------------------------------------------
+[Prompt: 'a vida e', Temperature = 1.3]
+a vida e serenata juntos diz que e sambando tem sereno de via tao depressa quase mais passa entregou vou esperava os devagar penar como daquela grandes inhambu uma cancao tudo que me
+--------------------------------------------------------------------------------
+====================================================================================================
+[Prompt: 'eu sinto', Temperature = 0.7]
+eu sinto nada pra eu ela o teu projeto de mim me se caiu era o que e pra ser um salao de voltar eu que voltar te vejo a gente pra
+--------------------------------------------------------------------------------
+[Prompt: 'eu sinto', Temperature = 1.0]
+eu sinto nada se te dar choro eu ja eu quis quando e que te amo vai levar do meu namorado que eu e pra ficar fina meu aguenta e achar meu
+--------------------------------------------------------------------------------
+[Prompt: 'eu sinto', Temperature = 1.3]
+eu sinto ria o proximo somos dos vao voce diz suas sapo fera espalho camisa escravo e bem morta a moca de areia eles nossos que eu nado viva aqui maramba de
+--------------------------------------------------------------------------------
+====================================================================================================

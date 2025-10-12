@@ -1,0 +1,30 @@
+[Prompt: 'o amor e', Temperature = 0.7]
+o amor e um que de que se a o pra feroz me que nao e que de eu ja na me sou do de que que so o o do o me
+--------------------------------------------------------------------------------
+[Prompt: 'o amor e', Temperature = 1.0]
+o amor e prazer nasci bonita voce que que o quieto solucao boa preciso emprego quando eu foi carrega e te te samba palavra abandonando cancao os surgiu cancao amor noite fundo escura
+--------------------------------------------------------------------------------
+[Prompt: 'o amor e', Temperature = 1.3]
+o amor e vez esquecer pensas amo em meninos cantar querida nao homens teve pensar voltei errou diz espetaculo vao juntos foram iguais favor como flores abraco dela exemplo que hora sofre outrora
+--------------------------------------------------------------------------------
+====================================================================================================
+[Prompt: 'a vida e', Temperature = 0.7]
+a vida e que eu o a em onde por mim me que vai sombras que que o voce que que e pe ou de duro que e ta eu pra o quem
+--------------------------------------------------------------------------------
+[Prompt: 'a vida e', Temperature = 1.0]
+a vida e quem no porto que qualquer nao tem amanha tem o chocalho la sou sim fazer sonhos amar supoe vence o do voltar que deixa sonhei nao na vives e se
+--------------------------------------------------------------------------------
+[Prompt: 'a vida e', Temperature = 1.3]
+a vida e e saiba todo os esperar vou em virando acabar grilos aquela que corpo dou va dos cordao graca sim amarga darte nas o porque lhe dentro cheiro ele passar todo
+--------------------------------------------------------------------------------
+====================================================================================================
+[Prompt: 'eu sinto', Temperature = 0.7]
+eu sinto sei nao que preciso em tem um vai ai a sorri que e e e que matar e com e a no prato um do la que nunca meu mes
+--------------------------------------------------------------------------------
+[Prompt: 'eu sinto', Temperature = 1.0]
+eu sinto ardor vao aqui vai que do canta vida sair eu eternamente precisava coragem de conta mas em mao e homem nao mais eu fez um ti seca num um vez
+--------------------------------------------------------------------------------
+[Prompt: 'eu sinto', Temperature = 1.3]
+eu sinto ao eu em amarela um fim minhas das se alumiara miseria por homem pra beijar amarela um pe boa falta de somos escola pao comer errei tratar morro que vai
+--------------------------------------------------------------------------------
+====================================================================================================

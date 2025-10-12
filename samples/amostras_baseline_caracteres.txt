@@ -1,0 +1,105 @@
+[Prompt: 'o amor e', Temperature = 0.7]
+o amor e pra teu treve
+e quando te prossem presentes do queiro
+a terra que eu te acordar
+
+vem ai
+eu quero ele tambem pra caminho
+quando tao boa no esperar tuas paradeciversos pra possao so parar
+nenhuma amar
+--------------------------------------------------------------------------------
+[Prompt: 'o amor e', Temperature = 1.0]
+o amor e os me pro cola
+viva cabe devariado
+quero vivia
+sem mar distrago que deitado ela quando chater
+mas vai levar a minha casa
+dam coracota
+perar contigo
+nao sei
+se o tempo que nao vou tao dois
+e sai pao b
+--------------------------------------------------------------------------------
+[Prompt: 'o amor e', Temperature = 1.3]
+o amor exise nos
+sempre quero alejo
+voce
+geni de lindo dagondo me deprissipa ficar porem
+
+me vai abracar
+sorte organder
+deixa sompedo
+voce voce somer o ouver
+me liga um sonhar cuidar
+desmaina divida acabo min
+--------------------------------------------------------------------------------
+====================================================================================================
+[Prompt: 'a vida e', Temperature = 0.7]
+a vida estar
+no seu carraca e transbordado
+e que eu tentar o seu nome
+de vida
+a nossa vida
+nao para tare
+tem a vida
+e te te dar o amor e que eu tinha
+mas nao soube o expostor
+pra ver la de esperar um lugar
+vo
+--------------------------------------------------------------------------------
+[Prompt: 'a vida e', Temperature = 1.0]
+a vida ela se faz
+esse lado dadesos
+poderias praias parasco coisas casas quando amaram ai
+ai olhe vem ahora
+eu ouvido nao sei nao
+eu tiver tua lugar
+tem outro teu amor quie conida
+e foi tanto escuro disse que
+--------------------------------------------------------------------------------
+[Prompt: 'a vida e', Temperature = 1.3]
+a vida e hoveno
+nos gorres reascos dos chontes
+ei o viver
+tamento bem onde nao para ate tambem
+so ele nao amel que mexerai
+para o temper ano
+nao podero voce gincio me rabancio pra nao faz o sentido em loucao
+
+--------------------------------------------------------------------------------
+====================================================================================================
+[Prompt: 'eu sinto', Temperature = 0.7]
+eu sinto semoria
+destendo pra me pros quartos
+tanto quinaria nao quero
+o que eu tenho um fute coisa viu amo
+eu vou dou meu coracao
+pra eu te probleme
+quero ver o que e que eu for
+tao tambem tao sentir algum v
+--------------------------------------------------------------------------------
+[Prompt: 'eu sinto', Temperature = 1.0]
+eu sinto voce
+te quiero pra mudou asco
+eu te nao te depriomente que vai oh balbara
+eu vejo a rua la
+chegou eu chamos dados
+pra exejo de poetrar
+nome e fero
+com um voce
+tentao papes de teu coisa
+nao sabe auror
+--------------------------------------------------------------------------------
+[Prompt: 'eu sinto', Temperature = 1.3]
+eu sinto labir
+quero viajar
+o tempo fim venendo os teus
+tudo esperaco tao litade
+tantas maneiras
+tentacos nocanimos vazer
+e suar de apenas
+sem mais em miau mesmo
+que mao e que voce
+quem em cor nuacurado e moc
+--------------------------------------------------------------------------------
+====================================================================================================
